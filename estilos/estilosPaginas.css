@@ -1,0 +1,91 @@
+#subirCancion, #bienvenida{
+    width:500px;
+    margin: 0 auto;
+}
+
+#bienvenida{
+    text-align: center;
+}
+
+
+#tablaCanciones{
+    width:700px;
+    margin: 0 auto;
+    margin-top:50px;
+}
+
+td{
+    padding:5px 20px 5px 20px;
+    text-align:center;
+}
+
+body{
+    background: url('http://www.mactualidad.com/wp-content/uploads/2014/07/smooth-ice.jpg') no-repeat fixed center center;
+    background-size: cover;
+}
+
+nav{
+    float: left;
+    margin-bottom: 10px;
+    font-size: 2em;      
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-family: 'worksansbold';
+    padding: 10px 20px;
+    background-color: rgba(3, 0, 3, 0.3);
+    margin-left: -8px;
+}
+
+nav a:hover{
+    background-color: rgba(193, 48, 49, 0.3);
+}
+
+ul{
+    font-weight: bold;
+}
+
+nav ul li{
+    list-style-type: none;
+    display:inline;
+}
+
+nav a:hover{
+    color:white;   
+}
+
+.actual{
+    background-color: rgba(193, 48, 49, 0.3);   
+}
+
+.cabecera {
+position:relative;
+}
+
+.contenedorCabecera{
+    width:520px;
+    margin: 0 auto;
+}
+
+.separador{
+    clear:both;
+}
+
+#tablaCanciones{
+    width:800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-top:20px;
+}
+
+.contenedorSubido{
+    width:800px;
+    margin: 0 auto;  
+    margin-top:20px;
+}
+
+.tabla{
+    margin:0 auto;
+}
